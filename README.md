@@ -3,7 +3,7 @@
 
 *Overview:*
 
-This Jupyter notebook demonstrates how to perform differential gene expression (DGE) analysis on single-cell RNA-seq data using the DESeq2 package in R. The workflow includes data preprocessing, performing DESeq2 analysis, and visualizing results with a heatmap.
+This Jupyter notebook demonstrates how to perform differential gene expression analysis on single-cell RNA-seq data using the DESeq2 package in R. The workflow includes data preprocessing, performing DESeq2 analysis, and visualizing results with a heatmap.
 
 
 
