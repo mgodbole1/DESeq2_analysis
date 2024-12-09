@@ -14,13 +14,13 @@ DESeq2: https://bioconductor.org/packages/release/bioc/html/DESeq2.html
 
 This analysis requires the following R libraries:
 
-DESeq2 – Differential expression analysis
+1) DESeq2 – Differential expression analysis
 
-rJava – Required for Java-based R packages
+2) rJava – Required for Java-based R packages
 
-openxlsx – For reading and writing Excel files
+3) openxlsx – For reading and writing Excel files
 
-pheatmap – For generating heatmaps
+4) pheatmap – For generating heatmaps
 
 
 You can install them in R using:
