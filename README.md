@@ -32,7 +32,7 @@ install.packages("rJava")
 install.packages("pheatmap")
 ```
 
-*Workflow*
-Load Data: Load and preprocess raw count data and sample metadata.
-DESeq2 Analysis: Perform differential expression analysis with DESeq2.
-Heatmap Visualization: Generate a heatmap of the most variable genes.
+*Workflow:*
+1) Load Data: Load and preprocess raw count data and sample metadata.
+2) DESeq2 Analysis: Perform differential expression analysis with DESeq2.
+3) Heatmap Visualization: Generate a heatmap of the most variable genes.
