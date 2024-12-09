@@ -7,7 +7,7 @@ This Jupyter notebook demonstrates how to perform differential gene expression a
 
 
 
-DESeq2: https://bioconductor.org/packages/release/bioc/html/DESeq2.html
+DESeq2: https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
 
 
 *Requirements:*
